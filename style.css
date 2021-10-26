@@ -1,0 +1,64 @@
+*{
+    font-family: sans-serif;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.flexx{
+    flex-wrap: wrap;
+}
+
+.header .one a{
+    text-decoration: none;
+}
+
+.footer1 form input {
+    outline: none;
+}
+
+.footer1 p {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.footer1 p span{
+    display: block;
+    font-size: 14px;
+    font-weight: lighter;
+}
+
+
+
+.footer2 ul li {
+    color: #B0B0B0;
+    font-weight: bold;
+}
+
+.footer2 ul li a{
+    text-decoration: none;
+    color: #B0B0B0;
+    font-weight: normal;
+}
+
+.footer2 ul li a:hover{
+    cursor: pointer;
+    color: #fff;
+}
+
+
+.subfooter p{
+    color: #B0B0B0;
+}
+
+.subfooter p a {
+    text-decoration: none;
+    color: #757575;
+}
+
+.subfooter p a:hover{
+    cursor: pointer;
+    color: #ff6700;
+}
